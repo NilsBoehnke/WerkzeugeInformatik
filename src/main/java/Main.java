@@ -4,7 +4,7 @@ public class Main {
         Factory factory = new Factory();
 
         Car car1 = new Car("red", "BMW", 5);
-        Car car2 = new Car("blue", "Audi", 3);
+        Car car2 = new Car("gray", "Audi", 3);
 
         Car car3 = new Car("gray", "VW", 3);
 
